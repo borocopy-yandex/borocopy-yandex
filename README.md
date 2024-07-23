@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Anastasia, 21 y.o
+Math major
 <!--
 **borocopy-yandex/borocopy-yandex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
